@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v1beta1-c284947-309-b42b
+FROM gcr.io/kubeflow-images-public/tf_operator:v0.5.0
