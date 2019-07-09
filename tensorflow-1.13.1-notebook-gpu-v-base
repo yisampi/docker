@@ -1,1 +1,2 @@
-FROM gcr.io/kubeflow-images-public/tensorflow-1.13.1-notebook-gpu:v-base-719abf2-1114407182293536768
+FROM gcr.io/kubeflow-images-public/tensorflow-1.13.1-notebook-gpu:2a92ca1
+
