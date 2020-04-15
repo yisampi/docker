@@ -1,0 +1,1 @@
+FROM milvusbootcamp/pic-search-webserver:0.3.0
